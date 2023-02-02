@@ -4,9 +4,9 @@
 © 2018-2019
 
 ## **Etudiants**: 
-- ***HOFFMANN Julien   
-- Abbad-Menival Safouane   
-- CHESNEAU Helene***       
+- *HOFFMANN Julien*   
+- *Abbad-Menival Safouane*   
+- *CHESNEAU Helene*       
 
 ## **Durée**:
 - 2mois 
